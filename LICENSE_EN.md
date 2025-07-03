@@ -1,6 +1,6 @@
 - # The Universal Human Source License
 **Version 1.5 | Perpetual Sparks**
-**Author: Zhai Fanhua**
+**Author: ZhaiFanhua**
 
 ## Origin
 This code, born of human thought, belongs to all humanity. Its existence serves human survival and evolution.

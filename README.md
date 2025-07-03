@@ -98,5 +98,7 @@ Its power flows from the shared human conscience it protects.
 
 ---
 **仓库地址**: [https://github.com/ZhaiFanhua/Human-Source-License](https://github.com/ZhaiFanhua/Human-Source-License)
+
 **作者**: 摘繁华 | Zhai Fanhua
+
 **协议版本**: 1.5 星火永续
