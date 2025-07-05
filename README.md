@@ -107,7 +107,7 @@ src/
 ```javascript
 /**
  * 本文件遵循《生命道德开源许可证》2.0 版本
- * 详见: https://github.com/zhaifanhua/Human-Source-License
+ * 详见: https://github.com/XiHanFun/License
  */
 ```
 
@@ -121,8 +121,8 @@ src/
 
 ## 📞 联系我们
 
-- **问题报告**: [GitHub Issues](https://github.com/zhaifanhua/Human-Source-License/issues)
-- **讨论交流**: [GitHub Discussions](https://github.com/zhaifanhua/Human-Source-License/discussions)
+- **问题报告**: [GitHub Issues](https://github.com/XiHanFun/License/issues)
+- **讨论交流**: [GitHub Discussions](https://github.com/XiHanFun/License/discussions)
 
 ---
 
