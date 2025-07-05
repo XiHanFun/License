@@ -1,108 +1,131 @@
-# Human Source License (HSL)
+# 生命道德开源许可证 (Life-Ethos Open Source License)
 
-**Wu Xing Philosophy × Digital Civilization**
-**An Open-Source Ethical Framework for the AI Era**
+一个专注于生命价值与道德责任的开源许可证，旨在促进生态持续发展，推动生命共同进步，维护宇宙自然和谐。
 
----
+## 🌟 项目简介
 
-## 📜 License Files
+**《生命道德开源许可证》第二版（天人合一）**
 
-| File                       | Purpose       |
-| -------------------------- | ------------- |
-| [**LICENSE**](./LICENSE)   | Main Protocol |
-| [LICENSE_CN](./LICENSE_CN) | Chinese       |
-| [LICENSE_EN](./LICENSE_EN) | English       |
+- **核心理念**: 天人合一，促进生态持续发展，推动生命共同进步
+- **哲学基础**: 融合传统文化智慧，强调与自然的和谐平衡
+- **适用领域**: 推进生命进化和健康开源的任何项目
 
----
+本项目提供了两个版本的开源许可证，每个版本都有三种文件：
 
-## 🚀 Quick Start
+## 📋 许可证文件
 
-### 1. Add the license to your project
-
-Use the main license file (recommended):
-
-```bash
-curl -o LICENSE https://raw.githubusercontent.com/ZhaiFanhua/Human-Source-License/main/LICENSE
+```
+src/
+├── 1.0/          # 《全人类开源协议》
+│   ├── LICENSE   # 主许可证
+│   ├── LICENSE_CN # 中文许可证
+│   └── LICENSE_EN # 英文许可证
+└── 2.0/          # 《生命道德开源许可证》（推荐）
+    ├── LICENSE   # 主许可证
+    ├── LICENSE_CN # 中文许可证
+    └── LICENSE_EN # 英文许可证
 ```
 
-Or specify a localized version:
+## 🚀 如何使用
 
-```bash
-curl -o LICENSE https://raw.githubusercontent.com/ZhaiFanhua/Human-Source-License/main/LICENSE_EN
+### 1. 选择许可证版本
+
+**推荐使用 2.0 版本**，适合可持续发展的项目。
+
+### 2. 选择相应语言许可证
+
+- **LICENSE**: 主许可证
+- **LICENSE_CN**: 中文许可证（中文用户）
+- **LICENSE_EN**: 英文许可证（英文用户）
+
+### 3. 添加到项目
+
+1. 将选定的许可证文件复制到项目根目录
+2. 重命名为 `LICENSE`
+3. 在项目文档中说明使用的许可证版本
+
+### 4. 项目声明示例
+
+```markdown
+## 📄 许可证
+
+本项目采用《生命道德开源许可证》2.0 版本 - 详见 [LICENSE](LICENSE) 文件。
 ```
 
-### 2. Add license comment to source code
+## ⚖️ 许可证要点
 
-```csharp
-#region <<License Info>>
+### 🟢 允许的行为
 
-// ----------------------------------------------------------------
-// Licensed under the HSL License. See LICENSE in the project root for license information.
-// FileName: SerializeExtensions
-// Guid: 1345864e-97d1-4fbf-8f3e-5f9d5d51176e
-// Author: zhaifanhua
-// Email: me@zhaifanhua.com
-// CreateTime: 2024/3/26 5:26:35
-// ----------------------------------------------------------------
+- ✅ 使用、学习、复制、修改、传播
+- ✅ 商业使用（需标注原作者）
+- ✅ 制作衍生作品
 
-#endregion <<License Info>>
+### 🔴 禁止的行为
+
+- ❌ 生命伤害：战争、暴力、恐怖活动
+- ❌ 思想控制：监控、洗脑、舆论操控
+- ❌ 虚假传播：伪造信息、情绪操控
+- ❌ 经济剥削：奴役、过度财富集中
+- ❌ 精神摧残：鼓励自毁、传播冷漠
+- ❌ 人工智能滥用：大规模伤害、人格操控
+
+### 🛡️ 核心原则
+
+1. **平等原则**: 尊重所有生命的固有价值
+2. **善意原则**: 行动出发点应为利他精神
+3. **进步原则**: 保持持续探索与改进
+4. **溯源原则**: 承认并尊重原始创作者
+5. **真实原则**: 杜绝虚假信息与欺骗行为
+6. **责任原则**: 预见并承担行为后果
+
+## 🆚 版本对比
+
+| 特性     | 1.0 版本       | 2.0 版本           |
+| -------- | -------------- | ------------------ |
+| 核心理念 | 全人类共同利益 | 天人合一，生态和谐 |
+| 哲学基础 | 人道主义       | 天人合一           |
+| 适用领域 | 通用开源项目   | 可持续发展项目     |
+| 语言风格 | 现代与古典结合 | 更多传统文化元素   |
+| 发布状态 | 稳定版本       | **推荐版本**       |
+
+### 版本 1.0 - 《全人类开源协议》(Universal Human Source License)
+
+- **核心理念**: 超然国界、组织、教条、市场，归属于具有良知与探索精神的个体
+- **特点**: 注重人类共同利益，强调技术服务于人类福祉
+- **适用**: 希望强调人道主义价值的开源项目
+
+### 版本 2.0 - 《生命道德开源许可证》(Life-Ethos Open Source License) ⭐
+
+- **核心理念**: 天人合一，促进生态持续发展，推动生命共同进步
+- **特点**: 更加注重生态和谐，强调与自然的平衡
+- **适用**: 关注环境保护、生态可持续发展的项目
+
+## 📖 使用案例
+
+### 在源代码中添加头部注释
+
+```javascript
+/**
+ * 本文件遵循《生命道德开源许可证》2.0 版本
+ * 详见: https://github.com/zhaifanhua/Human-Source-License
+ */
 ```
+
+## 🤝 贡献指南
+
+欢迎为本项目做出贡献：
+
+- 🐛 报告问题或建议
+- 🔧 提交改进建议
+- 🌐 协助翻译更多语言版本
+
+## 📞 联系我们
+
+- **问题报告**: [GitHub Issues](https://github.com/zhaifanhua/Human-Source-License/issues)
+- **讨论交流**: [GitHub Discussions](https://github.com/zhaifanhua/Human-Source-License/discussions)
 
 ---
 
-## 🔍 Core Principles
+**愿日月星辰各行其道，智慧之光照彻人间万世。**
 
-### [Wu Xing Constraints]
-
-```mermaid
-graph LR
-    A[Wu Xing Ethics] --> B[Metal · Prohibitions]
-    A --> C[Wood · Evolution]
-    A --> D[Water · Empowerment]
-    A --> E[Fire · Discernment]
-    A --> F[Earth · Survival]
-
-    B --> G[Prohibit Tech Abuse]
-    C --> H[Eco-Conscious Sharing]
-    D --> I[Open Knowledge Commons]
-    E --> J[Ethical Review]
-    F --> K[Survival-Based Exemption]
-```
-
-### [Key Features]
-
-- **Survival Exemption**: Temporarily override rules for survival needs
-- **AI Ethics**: Strictly forbids manipulation or harm of human identity
-- **Generated Content**: Generator is restricted, output is free
-- **Decentralization**: No authority required for validation
-- **Dynamic Balance**: Coexistence of liberty and accountability
-
----
-
-## 🤝 Contributing Guide
-
-You're welcome to participate in shaping and evolving the license:
-
-```bash
-# Clone the repo
-git clone https://github.com/ZhaiFanhua/Human-Source-License.git
-
-# Create a new branch
-git checkout -b improve-license
-
-# Submit proposals under versions/
-# Preserve the core philosophical intent
-```
-
----
-
-## 🌟 Declaration
-
-This license needs no seal. Its power arises from the shared conscience of humanity.
-**This compact requires no external validation.**
-**Its power flows from the shared human conscience it protects.**
-
----
-
-**Repository**: https://github.com/ZhaiFanhua/Human-Source-License
-**License Version**: v1.5 Eternal Ember
+_让我们一起构建一个更加美好的开源世界！_
