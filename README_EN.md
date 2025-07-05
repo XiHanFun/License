@@ -1,19 +1,19 @@
 # Human Source License (HSL)
 
 **Wu Xing Philosophy × Digital Civilization**
- **An Open-Source Ethical Framework for the AI Era**
+**An Open-Source Ethical Framework for the AI Era**
 
-------
+---
 
 ## 📜 License Files
 
-| File                                           | Purpose       |
-| ---------------------------------------------- | ------------- |
-| [**LICENSE**](https://chatgpt.com/c/LICENSE)   | Main Protocol |
-| [LICENSE_CN](https://chatgpt.com/c/LICENSE_CN) | Chinese       |
-| [LICENSE_EN](https://chatgpt.com/c/LICENSE_EN) | English       |
+| File                       | Purpose       |
+| -------------------------- | ------------- |
+| [**LICENSE**](./LICENSE)   | Main Protocol |
+| [LICENSE_CN](./LICENSE_CN) | Chinese       |
+| [LICENSE_EN](./LICENSE_EN) | English       |
 
-------
+---
 
 ## 🚀 Quick Start
 
@@ -49,7 +49,7 @@ curl -o LICENSE https://raw.githubusercontent.com/ZhaiFanhua/Human-Source-Licens
 #endregion <<License Info>>
 ```
 
-------
+---
 
 ## 🔍 Core Principles
 
@@ -78,7 +78,7 @@ graph LR
 - **Decentralization**: No authority required for validation
 - **Dynamic Balance**: Coexistence of liberty and accountability
 
-------
+---
 
 ## 🤝 Contributing Guide
 
@@ -95,15 +95,15 @@ git checkout -b improve-license
 # Preserve the core philosophical intent
 ```
 
-------
+---
 
 ## 🌟 Declaration
 
 This license needs no seal. Its power arises from the shared conscience of humanity.
- **This compact requires no external validation.**
- **Its power flows from the shared human conscience it protects.**
+**This compact requires no external validation.**
+**Its power flows from the shared human conscience it protects.**
 
-------
+---
 
 **Repository**: https://github.com/ZhaiFanhua/Human-Source-License
 **License Version**: v1.5 Eternal Ember

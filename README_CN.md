@@ -1,21 +1,19 @@
 # Human Source License (HSL) | 全人类开源协议
 
-  
-
 **五行哲学 x 数字文明 之道**
- **面向 AI 时代的开源企业与倩理应对**
+**面向 AI 时代的开源企业与倩理应对**
 
-------
+---
 
 ## 📜 协议文件
 
-| 文件                                           | 用途   |
-| ---------------------------------------------- | ------ |
-| [**LICENSE**](https://chatgpt.com/c/LICENSE)   | 主协议 |
-| [LICENSE_CN](https://chatgpt.com/c/LICENSE_CN) | 中文版 |
-| [LICENSE_EN](https://chatgpt.com/c/LICENSE_EN) | 英文版 |
+| 文件                       | 用途   |
+| -------------------------- | ------ |
+| [**LICENSE**](./LICENSE)   | 主协议 |
+| [LICENSE_CN](./LICENSE_CN) | 中文版 |
+| [LICENSE_EN](./LICENSE_EN) | 英文版 |
 
-------
+---
 
 ## 🚀 快速使用
 
@@ -51,7 +49,7 @@ curl -o LICENSE https://raw.githubusercontent.com/ZhaiFanhua/Human-Source-Licens
 #endregion <<版权版本注释>>
 ```
 
-------
+---
 
 ## 🔍 协议核心综要
 
@@ -80,7 +78,7 @@ graph LR
 - **去中心化** ：无需求件，无需承认
 - **动态平衡** ：在自由与责任之间实现定子
 
-------
+---
 
 ## 🤝 贡献指南
 
@@ -97,16 +95,15 @@ git checkout -b improve-license
 # 保持主线哲学精神不变
 ```
 
-------
+---
 
 ## 🌟 协议声明
 
 此约，无需外印；其力，源于所护者：人类共命良知。
- **This compact requires no external validation.**
- **Its power flows from the shared human conscience it protects.**
+**This compact requires no external validation.**
+**Its power flows from the shared human conscience it protects.**
 
-------
+---
 
 **项目仓库**: https://github.com/ZhaiFanhua/Human-Source-License
 **协议版本**: v1.5 星火永续
-**作者**: 摘繁华
