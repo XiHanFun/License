@@ -107,4 +107,3 @@ This license needs no seal. Its power arises from the shared conscience of human
 
 **Repository**: https://github.com/ZhaiFanhua/Human-Source-License
 **License Version**: v1.5 Eternal Ember
-**Author**: ZhaiFanhua

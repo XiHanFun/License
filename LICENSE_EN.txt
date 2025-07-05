@@ -1,6 +1,5 @@
 The Universal Human Source License (HSL)
 Version 1.5 | Perpetual Sparks
-Author: ZhaiFanhua
 
 === Origin ===
 This code, born of human thought, belongs to all humanity. 
