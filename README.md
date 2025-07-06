@@ -1,4 +1,4 @@
-# 生命道德开源许可证 | LEOS License (Life-Ethos Open Source License)
+# 生命道德开源许可证(Life-Ethos Open Source License)
 
 ## 简介
 
