@@ -1,4 +1,4 @@
-# 生命道德开源许可证 (Life-Ethos Open Source License)
+# 生命道德开源许可证 | LEOS License (Life-Ethos Open Source License)
 
 ## 简介
 
@@ -43,12 +43,10 @@
    - [英文版](LICENSE_EN)
 3. 在项目文档中声明：
 
-   ```markdown
-   ## 许可证
-
-   本项目采用 [生命道德开源许可证](https://github.com/XiHanFun/License)
-   请确保所有使用/修改/分发行为遵守其道德准则
-   ```
+```markdown
+// Copyright (c) [Year] [name of copyright holder]
+// Licensed under the LEOS License. See LICENSE file in the project root for full license information.
+```
 
 ## 版本权威性说明
 
